@@ -9,3 +9,4 @@ extensions/
 
 composer.phar
 composer.lock
+.DS_Store
